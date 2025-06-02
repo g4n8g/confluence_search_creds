@@ -1,0 +1,92 @@
+пароль
+пасс
+пароли
+учетка
+учетная запись
+логин
+логин:пароль
+доступ
+доступы
+авторизация
+аутентификация
+токен
+ключ
+ключи
+ssh
+ssh-key
+ftp
+vpn
+rdp
+админ
+администратор
+root
+секрет
+сервисный аккаунт
+тестовая учетка
+учетные данные
+бд
+база данных
+sql
+mysql
+postgres
+mongo
+mongodb
+redis
+jira
+confluence
+gitlab
+jenkins
+nexus
+smtp
+imap
+pop3
+email
+почта
+outlook
+домены
+kerberos
+ntlm
+ldap
+active directory
+api
+api_key
+apikey
+authorization
+jwt
+token
+bearer
+credentials
+username
+user
+users
+login
+password
+pass
+p@ssw0rd
+passwd
+pswd
+qwerty
+admin
+administrator
+1qaz
+!qaz
+access
+vault
+secrets
+confidential
+internal use only
+not for external
+доверительно
+внутреннее
+smb
+публичный ключ
+приватный ключ
+private key
+public key
+aws
+azure
+gcp
+s3
+bucket
+cloud
+облако
